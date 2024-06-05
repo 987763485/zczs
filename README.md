@@ -1,6 +1,6 @@
 # 开源的等保测评、密评、风评三合一工具
 
-基于Rust开发的标准的、快速的、安全的、可订制的、安全测评系统
+基于Rust开发的标准的、快速的、安全的、可订制的、安全测评系统；安全工程师的vscode
 
 - 支持插件开发
 - 支持编辑锁定功能
@@ -11,9 +11,11 @@
 
 
 
-![desktop](./asset/Wireframe-2.png)
+![desktop1](./asset/mac-1.png)
 
-![desktop](./asset/Wireframe-3.png)
+![desktop2](./asset/windows-1.png)
+
+![desktop3](./asset/mac-2.png)
 
 
 ## 客户端获取方式
