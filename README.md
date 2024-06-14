@@ -11,17 +11,19 @@
 
 
 
-![desktop1](./asset/mac-1.png)
+![desktop1](https://cloud.miaodu.net/public/mac-1.jpeg)
 
-![desktop2](./asset/windows-1.png)
+![desktop2](https://cloud.miaodu.net/public/mac-2.jpeg)
 
-![desktop3](./asset/mac-2.png)
+![desktop3](https://cloud.miaodu.net/public/windows-1.jpeg)
 
 
 ## 获取方式
 
-此处只提供安装客户端，具体下载请关注release
 
-出于软件的安全性保护措施，防止他人恶意利用，暂不提供源码下载，源代码只能通过实名登记发放
-> 请发送邮件到[987763485@qq.com](987763485@qq.com)，标题为等保或密评或风评。
+
+出于网络安全工具的监管要求和安全性保护措施，防止他人恶意利用，暂不提供源码下载，源代码只能通过实名登记发放，请添加开发人员微信获取
+
+<img src="https://cloud.miaodu.net/public/weixin-user1.jpg" alt="微信" width="300">
+
 
